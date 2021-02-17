@@ -9,7 +9,7 @@ pylint = "*"
 autopep8 = "*"
 flask-jwt = "*"
 flask-sqlalchemy = "*"
-
+uwsgi = "*"
 [dev-packages]
 
 [requires]
